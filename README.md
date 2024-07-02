@@ -26,6 +26,8 @@ I want to apply my knowledge of JavaScript and React as a React web developer to
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnatShahriar)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnatShahriar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HasnatShahriar&show_icons=true)  
 
 ![GitHub metrics](https://metrics.lecoq.io/HasnatShahriar)  
