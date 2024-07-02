@@ -1,7 +1,6 @@
 ![Web Developer](https://i.ibb.co/xz4bHZ7/1.png)
 
 ### Hi there 👋, Md. Abu Hasnat Shahriar
-#### Web Developer
 
 I want to apply my knowledge of JavaScript and React as a React web developer to make dynamic, user- friendly websites. My objective is to constantly learn and develop in a cooperative team setting while supporting creative projects and improving user experiences.
 
