@@ -32,9 +32,10 @@ I want to apply my knowledge of JavaScript and React as a React web developer to
 
 
 ![GitHub metrics](https://metrics.lecoq.io/HasnatShahriar)  
-![GitHub metrics](https://metrics.lecoq.io/HasnatShahriar)
-
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HasnatShahriar)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=HasnatShahriar&theme=dark)
+
+
 
 
