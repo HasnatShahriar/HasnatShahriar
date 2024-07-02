@@ -19,17 +19,18 @@ I want to apply my knowledge of JavaScript and React as a React web developer to
 
 
 **Connect With Me:**
-<div style="background-color:#f0f0f0; padding: 10px;">
-    <a href="https://github.com/HasnatShahriar">
+<div style="background-color:#f0f0f0; padding: 10px; display: flex; align-items: center;">
+    <a href="https://github.com/HasnatShahriar" style="margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20"> GitHub
     </a> 
-    <a href="https://www.linkedin.com/in/hasnatshahriar/">
+    <a href="https://www.linkedin.com/in/hasnatshahriar/" style="margin-right: 10px;">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20"> LinkedIn
     </a> 
     <a href="https://www.facebook.com/shahriar.hriday.3">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20"> Facebook
     </a>
 </div>
+
 <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HasnatShahriar)](https://github.com/ryo-ma/github-profile-trophy)
@@ -39,7 +40,3 @@ I want to apply my knowledge of JavaScript and React as a React web developer to
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HasnatShahriar&show_icons=true&theme=vision-friendly-dark)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HasnatShahriar&theme=dark)
-
-
-
-
