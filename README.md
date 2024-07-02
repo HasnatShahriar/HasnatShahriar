@@ -30,10 +30,6 @@ I want to apply my knowledge of JavaScript and React as a React web developer to
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HasnatShahriar&show_icons=true&theme=vision-friendly-dark)
 
-
-![GitHub metrics](https://metrics.lecoq.io/HasnatShahriar)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=HasnatShahriar)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=HasnatShahriar&theme=dark)
 
 
