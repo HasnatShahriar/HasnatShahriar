@@ -11,8 +11,6 @@ Skills:
 - ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 - 🔭 I’m currently working on AeroMotion 
 - 🌱 I’m currently learning JavaScript 
