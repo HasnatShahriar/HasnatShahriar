@@ -19,17 +19,18 @@ I want to apply my knowledge of JavaScript and React as a React web developer to
 
 
 **Connect With Me:**
-<div style="background-color:#f0f0f0; padding: 10px; display: flex; align-items: center;">
-    <a href="https://github.com/HasnatShahriar" style="margin-right: 10px;">
+<div style="background-color:#f0f0f0; padding: 10px; display: flex; align-items: center; gap: 20px;">
+    <a href="https://github.com/HasnatShahriar">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="20"> GitHub
     </a> 
-    <a href="https://www.linkedin.com/in/hasnatshahriar/" style="margin-right: 10px;">
+    <a href="https://www.linkedin.com/in/hasnatshahriar/">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20"> LinkedIn
     </a> 
     <a href="https://www.facebook.com/shahriar.hriday.3">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="20"> Facebook
     </a>
 </div>
+
 <br>
 <br
     
