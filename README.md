@@ -4,7 +4,7 @@
 
 I want to apply my knowledge of JavaScript and React as a React web developer to make dynamic, user- friendly websites. My objective is to constantly learn and develop in a cooperative team setting while supporting creative projects and improving user experiences.
 
-Skills: 
+**Skills:**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
