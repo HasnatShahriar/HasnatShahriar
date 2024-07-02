@@ -13,7 +13,7 @@ Skills:
 - ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 
-- 🔭 I’m currently working on AeroMotion 
+  🔭 I’m currently working on AeroMotion 
 - 🌱 I’m currently learning JavaScript 
 - 👯 I’m looking to collaborate on github 
 - 💬 Ask me about Web Development 
